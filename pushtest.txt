@@ -1,1 +1,2 @@
 A test of pushing to a remote repository. 
+Now, we will practicing pulling from a remote repository.
